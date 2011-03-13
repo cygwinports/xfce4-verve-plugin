@@ -1,0 +1,7 @@
+category: Xfce
+requires: libcairo2 libdbus-glib_1_2 libdbus1_3 libgdk_pixbuf2.0_0 libglib2.0_0 libgtk2.0_0 libpcre0 libxfce4util4 libxfcegui4_4 xfce4-panel
+sdesc: "Xfce panel command-line plugin"
+ldesc: "The Verve panel plugin is a comfortable command line plugin for 
+the Xfce panel. It supports several nice features, such as command 
+history, auto-completion, URL handling, focus grabbing via D-BUS, and 
+custom input field width."

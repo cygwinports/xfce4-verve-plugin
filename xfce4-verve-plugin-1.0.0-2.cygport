@@ -1,0 +1,5 @@
+inherit xfce4
+
+
+PATCH_URI="1.0.0-as-needed.patch
+           1.0.0-xdt410.patch"

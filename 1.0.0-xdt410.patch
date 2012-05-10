@@ -1,0 +1,11 @@
+--- origsrc/xfce4-verve-plugin-1.0.0/configure.ac	2010-12-23 09:56:19.000000000 -0600
++++ src/xfce4-verve-plugin-1.0.0/configure.ac	2012-05-10 01:58:19.120123600 -0500
+@@ -82,7 +82,7 @@ fi
+ dnl ***********************************
+ dnl *** Check for debugging support ***
+ dnl ***********************************
+-BM_DEBUG_SUPPORT()
++XDT_FEATURE_DEBUG()
+ 
+ AC_OUTPUT([
+ Makefile
